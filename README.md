@@ -79,9 +79,8 @@ Open your terminal and run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/MahmoudAbdulfattah1/Hospital-Information-System/
-
-To get started with the Hospital Information System, follow the instructions below to set up the environment and run the system on your local machine.
 ```
+To get started with the Hospital Information System, follow the instructions below to set up the environment and run the system on your local machine.
 #### Step 2: Navigate to the Backend Directory
 Change your current working directory to the backend directory of the cloned repository:
 ```bash
